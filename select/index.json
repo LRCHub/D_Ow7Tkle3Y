@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "WHITE ALBUM",
+  "base_artist": "水沢依緒",
+  "createdAt": "2026-03-05T11:48:11.090256Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Black Or White (Album Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_Black_Or_White_(Album_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blank and White (Album Version)",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/02_Blank_and_White_(Album_Version)_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Guilty Of Being White (Album Version)",
+      "artist": "Slayer",
+      "has_synced": false,
+      "path": "select/03_Guilty_Of_Being_White_(Album_Version)_Slayer.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "WHITE ALBUM",
+      "artist": "冬馬かずさ",
+      "has_synced": true,
+      "path": "select/04_WHITE_ALBUM_冬馬かずさ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "WHITE ALBUM",
+      "artist": "Kazusa Touma",
+      "has_synced": true,
+      "path": "select/05_WHITE_ALBUM_Kazusa_Touma.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Black and White (Album Version)",
+      "artist": "Static-X",
+      "has_synced": true,
+      "path": "select/06_Black_and_White_(Album_Version)_Static-X.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "WHITE ALBUM Live at Campus Fes (TV anime ver.)",
+      "artist": "小木曽雪菜(CV:米澤円)",
+      "has_synced": true,
+      "path": "select/07_WHITE_ALBUM_Live_at_Campus_Fes_(TV_anime_ver.)_小木曽雪菜(CV_米澤円).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Black Or White(Album Version)",
+      "artist": "Micheal Jackson",
+      "has_synced": true,
+      "path": "select/08_Black_Or_White(Album_Version)_Micheal_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Coma White (Album Version (Explicit))",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/09_Coma_White_(Album_Version_(Explicit))_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blank and White (Album Version)",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/10_Blank_and_White_(Album_Version)_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Blues in Black and White (Album Version)",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/11_The_Blues_in_Black_and_White_(Album_Version)_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Black Or White (Album Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/12_Black_Or_White_(Album_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "WHITE ALBUM (Live at Campus Fes) (TV Anime Ver.)",
+      "artist": "小木曽雪菜(CV.米澤円)",
+      "has_synced": true,
+      "path": "select/13_WHITE_ALBUM_(Live_at_Campus_Fes)_(TV_Anime_Ver.)_小木曽雪菜(CV.米澤円).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "White Album",
+      "artist": "Yuki Morikawa",
+      "has_synced": true,
+      "path": "select/14_White_Album_Yuki_Morikawa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "WHITE ALBUM",
+      "artist": "Morikawa, Yuki",
+      "has_synced": true,
+      "path": "select/15_WHITE_ALBUM_Morikawa,_Yuki.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "White Album (Live at Campus Fes.)",
+      "artist": "Setsuna Ogiso",
+      "has_synced": false,
+      "path": "select/16_White_Album_(Live_at_Campus_Fes.)_Setsuna_Ogiso.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WHITE ALBUM",
+      "artist": "水沢依緒",
+      "has_synced": false,
+      "path": "select/pl_01_WHITE_ALBUM_水沢依緒.txt"
+    }
+  ]
+}
